@@ -1,0 +1,32 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+}
+.bangladesh{
+    display: flex;
+}
+.bangladesh p{
+    color: #696969;
+}
+
+.bd-info{
+    width: 50%;
+    padding: 40px;
+}
+.bd-info .button-link{
+    text-decoration: none;
+    background-image: linear-gradient(to bottom right, red, green);
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-weight: 700px;
+}
+.bd-info img{
+    width: 70%;
+    margin-left: 80px;
+}
